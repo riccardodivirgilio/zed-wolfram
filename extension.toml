@@ -8,4 +8,5 @@ repository = "https://github.com/riccardodivirgilio/zed-wolfram"
 
 [grammars.wolfram]
 repository = "https://github.com/riccardodivirgilio/zed-wolfram"
-rev = "2db13c4a0f0cba6ad33d6465e38e56901497897a"
+rev = "d80d9e4d1e09352cd2f60b1ac2faeba7f6c9723b"
+path = "grammars/wolfram"
