@@ -1,0 +1,16 @@
+{
+  "name": "zed-wolfram-generate",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "npx tsx tools/generate-highlights.ts"
+  },
+  "dependencies": {
+    "vscode-wolfram": "git+https://github.com/WolframResearch/vscode-wolfram.git"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

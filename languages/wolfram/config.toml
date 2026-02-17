@@ -1,0 +1,6 @@
+name = "Wolfram"
+grammar = "wolfram"
+path_suffixes = ["wl", "m", "wls", "wlt", "mt", "nb"]
+line_comments = ["(* ", " *)"]
+block_comment = ["(* ", " *)"]
+tab_size = 2

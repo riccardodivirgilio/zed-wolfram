@@ -1,0 +1,11 @@
+id = "wolfram"
+name = "Wolfram Language"
+version = "0.0.1"
+schema_version = 1
+authors = ["Riccardo Di Virgilio <riccardodivirgilio@gmail.com>"]
+description = "Wolfram Language syntax highlighting for Zed, powered by tree-sitter-wolfram"
+repository = "https://github.com/riccardodivirgilio/zed-wolfram"
+
+[grammars.wolfram]
+repository = "https://github.com/riccardodivirgilio/zed-wolfram"
+rev = "2db13c4a0f0cba6ad33d6465e38e56901497897a"
