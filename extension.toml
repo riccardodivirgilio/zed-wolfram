@@ -7,6 +7,5 @@ description = "Wolfram Language syntax highlighting for Zed, powered by tree-sit
 repository = "https://github.com/riccardodivirgilio/zed-wolfram"
 
 [grammars.wolfram]
-repository = "https://github.com/riccardodivirgilio/zed-wolfram"
-rev = "d80d9e4d1e09352cd2f60b1ac2faeba7f6c9723b"
-path = "grammars/wolfram"
+repository = "https://github.com/riccardodivirgilio/zed-wolfram-treesitter"
+rev = "1a31279379b579faa2a35de246e7f3d2d1fc65a6"
